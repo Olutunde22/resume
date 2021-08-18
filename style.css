@@ -114,8 +114,8 @@ input:hover, textarea:hover{
     border: 1px solid skyblue;
 }
 #footer{
-    background-color: black;
-    color: white;
+    background-color: rgba(242,235,232,.6);
+    color: black;
     padding: 5% 15%;
 }
 
@@ -133,12 +133,7 @@ input:hover, textarea:hover{
 .fa-envelope{
     color: #4285F4;
 }
-.footer-link{
-    text-decoration: none;
-    color: white;
-    transition: 0.5s;
-}
 
-.footer-link:hover{
-    color: deepskyblue;
+.link{
+    margin: 20px
 }
